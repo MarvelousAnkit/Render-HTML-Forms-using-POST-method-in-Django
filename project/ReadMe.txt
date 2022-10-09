@@ -12,6 +12,8 @@ Steps
 
 6) After that save and run cmd in project_name folder and type python manage.py runserver.
 
+
+
 Requirement 
 1) Python
 2) Django Module
