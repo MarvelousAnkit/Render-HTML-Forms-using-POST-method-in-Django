@@ -1,5 +1,5 @@
-Render HTML Forms (GET & POST) in Django
-Hey friends, today in this  code, you’ll learn how to create an  Login and Registration Form using HTML CSS Django  &amp;  MySQL.
+
+Hey friends, today in this  code, you’ll learn how to create an  Login and Registration Form using HTML CSS Django & MySQL.
 
 HTML Login Page
 ![SignUp](https://user-images.githubusercontent.com/110014127/194775034-8ca24416-88d6-4cff-b19f-d2d265ee5e4c.jpg)
