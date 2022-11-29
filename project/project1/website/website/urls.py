@@ -20,7 +20,7 @@ from signin.views import signin
 
 
 urlpatterns = [
-    path('admin/', admin.site.urls),
+    path('', signup),
     path('signup/', signup),
     path('signin/',signin),
 ]
